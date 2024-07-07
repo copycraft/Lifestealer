@@ -1,0 +1,9 @@
+name: Lifestealer
+version: '${project.version}'
+main: me.dzsivokado.lifestealer.Lifestealer
+api-version: '1.20'
+commands:
+  givesword:
+    description: "asd"
+  givebanisher:
+    description: "asd"
